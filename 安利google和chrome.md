@@ -20,6 +20,7 @@
 ##chrome插件推荐
 
 访问[Chrome 网上应用店](https://chrome.google.com/webstore/category/apps?utm_source=chrome-ntp-icon)里面搜索即可
+下面是在用的几个好用的插件。
 
 ###adblocks 
 
